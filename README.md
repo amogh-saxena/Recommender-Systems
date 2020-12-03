@@ -18,5 +18,4 @@ We use the [Movielens 1M](https://grouplens.org/datasets/movielens/1m/) movie ra
 
 ## Contributors
 * [Amogh Saxena](2017B4A71731H)
-* [Nikhil Mohan Krishna]( 2018A7PS0496H)
-* [Simran Sahni](2017B5A70856H)
+
